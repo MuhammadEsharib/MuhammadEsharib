@@ -1,26 +1,24 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- HERO BANNER (Theme aware) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/your_dark_banner.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/your_light_banner.gif">
   <img src="https://i.imgur.com/your_dark_banner.gif" width="100%" />
 </picture>
 
-<br>
+<br><br>
 
 <!-- HERO TITLE -->
-<h1>
-  Muhammad Esharib
-</h1>
+<h1>✨ Muhammad Esharib</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;UI%2FUX+Engineer;Building+Scalable+Systems;Crafting+Modern+Web+Experiences" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;UI%2FUX+Engineer;Building+Scalable+Digital+Products;Turning+Ideas+Into+Reality" width="100%" />
 
 <br>
 
-<!-- HERO CTA BADGES -->
+<!-- STATUS BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00D1FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20To%20Work-00D1FF?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=MuhammadEsharib&style=for-the-badge&color=00D1FF"/>
 </p>
 
@@ -28,30 +26,15 @@
 
 ---
 
-# 🧭 Overview
+# 🧊 About (Glass Card Style)
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td style="padding:20px; border-radius:12px; border:1px solid #00D1FF;">
 
-### 🚀 Mission  
-Building performant, scalable, and elegant web applications.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🎨 Focus  
-UI/UX, responsiveness, and clean interface design.
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ Approach  
-Modular architecture + reusable components + optimization.
+💼 I am a **Full-Stack Developer** focused on building modern, scalable, and visually appealing web applications.
 
 </td>
 </tr>
@@ -61,62 +44,194 @@ Modular architecture + reusable components + optimization.
 
 ---
 
-# 🧠 About Me
-
-I specialize in building **end-to-end web systems** that combine:
-
-- Strong frontend architecture  
-- Efficient backend systems  
-- Smooth user experiences  
-- Maintainable and scalable codebases  
-
----
-
-# 🧰 Tech Stack (UI Grid)
+# 🚀 Features (What I Offer)
 
 <div align="center">
 
-| Frontend | Backend | Database | DevOps |
-|----------|--------|----------|--------|
-| React | Node.js | MongoDB | Docker |
-| Next.js | Express | PostgreSQL | Kubernetes |
-| Tailwind | Django | Firebase | AWS |
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚡ Performance  
+Optimized applications with fast load times and efficient architecture.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎨 UI/UX  
+Clean, intuitive, and user-centered interfaces.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧩 Scalability  
+Modular systems designed to grow with your product.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgresql,docker,kubernetes,aws,git,github,vscode" />
-</p>
-
 ---
 
-# 📊 Analytics Dashboard
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadEsharib&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF" width="48%"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgresql,django,flask,docker,kubernetes,aws,git,github,vscode" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadEsharib&theme=transparent&hide_border=true&stroke=00D1FF" width="48%"/>
+</div>
+
+---
+
+# 📊 Analytics (Glass Dashboard)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadEsharib&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadEsharib&theme=transparent&hide_border=true&stroke=00D1FF" width="48%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadEsharib&theme=transparent" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadEsharib&theme=transparent" width="100%" />
 
 </div>
 
 ---
 
-# 🐍 Activity Visualization
+# 🧪 Projects (Portfolio Mock)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+
+<table>
+<tr>
+<td width="50%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+
+### 🧠 SaaS Dashboard  
+- Role-based authentication  
+- Real-time analytics  
+- REST API integration  
+- Responsive UI  
+
+</td>
+
+<td width="50%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+
+### ⚡ E-Commerce Platform  
+- Product catalog  
+- Cart & checkout system  
+- Payment integration  
+- Optimized performance  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+
+### 🎯 Portfolio System  
+- Dynamic content rendering  
+- Modern UI design  
+- SEO optimized  
+- Animation-ready  
+
+</td>
+
+<td width="50%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+
+### ☁️ API Platform  
+- Scalable backend services  
+- JWT authentication  
+- Microservice-ready structure  
+- Logging & monitoring  
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-# 📈 Live Activity Graph
+# 💬 Testimonials (Mock)
+
+<div align="center">
+
+<table>
+<tr>
+<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+
+⭐ "Delivered high-quality work with excellent attention to detail."  
+— Client A
+
+</td>
+
+<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+
+⭐ "Very professional and efficient in building scalable systems."  
+— Client B
+
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;" colspan="2" align="center">
+
+⭐ "Strong UI/UX skills combined with solid backend understanding."  
+— Client C
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💰 Pricing (Mock Packages)
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" align="center">
+
+### 🟢 Starter  
+- Basic website  
+- Responsive UI  
+- Simple backend  
+
+</td>
+
+<td width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" align="center">
+
+### 🔵 Pro  
+- Full-stack app  
+- API integration  
+- Authentication system  
+
+</td>
+
+<td width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" align="center">
+
+### 🟣 Enterprise  
+- Scalable architecture  
+- Advanced features  
+- Cloud deployment  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadEsharib&theme=react-dark&hide_border=true&area=true" width="100%" />
@@ -124,59 +239,24 @@ I specialize in building **end-to-end web systems** that combine:
 
 ---
 
-# 🧩 Featured Work
+# 🐍 Contribution Snake
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Project One  
-- Full-stack application  
-- Responsive UI  
-- API integration  
-- Authentication system  
-
-</td>
-
-<td width="50%">
-
-### ⚡ Project Two  
-- Modern frontend  
-- Optimized performance  
-- Clean component architecture  
-- Dark/light UI  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎥 Demo Showcase
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="45%" />
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="45%" />
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 ---
 
 # ⚡ Current Focus
 
-- Scalable system design  
-- Advanced frontend architecture  
-- Cloud-native deployments  
-- UI motion & interactivity  
+- Cloud-native architectures ☁️  
+- Advanced frontend performance ⚛️  
+- Scalable backend systems 🧠  
+- UI/UX interaction design 🎨  
 
 ---
 
-# 🌐 Connect
+# 🌐 Contact / CTA
 
 <div align="center">
 
@@ -192,10 +272,10 @@ I specialize in building **end-to-end web systems** that combine:
 
 ---
 
-# 🔻 Footer
+# 🔻 Final CTA
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Open+to+Opportunities;Open+to+Collaboration;Let's+Build+Something+Amazing+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Let%27s+Build+Something+Exceptional;Open+for+Collaborations;Turning+Ideas+Into+Products+🚀" />
 
 </div>

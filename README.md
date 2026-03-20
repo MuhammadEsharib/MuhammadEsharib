@@ -1,10 +1,18 @@
 <div align="center">
 
+<!-- HERO BANNER (Theme aware) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/your_dark_banner.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/your_light_banner.gif">
+  <img src="https://i.imgur.com/your_dark_banner.gif" width="100%" />
+</picture>
+
+<br><br>
 
 <!-- HERO TITLE -->
 <h1>✨ Muhammad Esharib</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;UI%2FUX+Engineer;Building+Scalable+Digital+Products;Turning+Ideas+Into+Reality" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;UI%2FUX+Engineer;Building+Scalable+Products;Crafting+Modern+Web+Experiences" width="100%" />
 
 <br>
 
@@ -18,15 +26,15 @@
 
 ---
 
-# 🧊 About (Glass Card Style)
+# 🧊 About (Glass Card)
 
 <div align="center">
 
 <table>
 <tr>
-<td style="padding:20px; border-radius:12px; border:1px solid #00D1FF;">
+<td style="border:1px solid #00D1FF; border-radius:12px; padding:20px;">
 
-💼 I am a **Full-Stack Developer** focused on building modern, scalable, and visually appealing web applications.
+I build **scalable full-stack applications** with a strong focus on performance, clean architecture, and modern UI/UX design.
 
 </td>
 </tr>
@@ -36,30 +44,30 @@
 
 ---
 
-# 🚀 Features (What I Offer)
+# 🚀 Features
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
 
-### ⚡ Performance  
-Optimized applications with fast load times and efficient architecture.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎨 UI/UX  
-Clean, intuitive, and user-centered interfaces.
+⚡ **Performance**  
+Optimized and fast applications
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
 
-### 🧩 Scalability  
-Modular systems designed to grow with your product.
+🎨 **UI/UX**  
+Clean and user-focused interfaces
+
+</td>
+
+<td align="center" width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+
+🧩 **Scalability**  
+Modular and maintainable systems
 
 </td>
 </tr>
@@ -79,7 +87,7 @@ Modular systems designed to grow with your product.
 
 ---
 
-# 📊 Analytics (Glass Dashboard)
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -95,51 +103,27 @@ Modular systems designed to grow with your product.
 
 ---
 
-# 🧪 Projects (Portfolio Mock)
+# 🧪 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;" width="50%">
 
 ### 🧠 SaaS Dashboard  
-- Role-based authentication  
-- Real-time analytics  
-- REST API integration  
-- Responsive UI  
+- Authentication  
+- Analytics  
+- API integration  
 
 </td>
 
-<td width="50%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
+<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;" width="50%">
 
 ### ⚡ E-Commerce Platform  
-- Product catalog  
-- Cart & checkout system  
-- Payment integration  
-- Optimized performance  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-
-### 🎯 Portfolio System  
-- Dynamic content rendering  
-- Modern UI design  
-- SEO optimized  
-- Animation-ready  
-
-</td>
-
-<td width="50%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-
-### ☁️ API Platform  
-- Scalable backend services  
-- JWT authentication  
-- Microservice-ready structure  
-- Logging & monitoring  
+- Cart system  
+- Payments  
+- Optimized UI  
 
 </td>
 </tr>
@@ -149,7 +133,7 @@ Modular systems designed to grow with your product.
 
 ---
 
-# 💬 Testimonials (Mock)
+# 💬 Testimonials
 
 <div align="center">
 
@@ -157,24 +141,15 @@ Modular systems designed to grow with your product.
 <tr>
 <td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
 
-⭐ "Delivered high-quality work with excellent attention to detail."  
-— Client A
+⭐ “Highly professional and detail-oriented developer.”  
+— Client A  
 
 </td>
 
 <td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
 
-⭐ "Very professional and efficient in building scalable systems."  
-— Client B
-
-</td>
-</tr>
-
-<tr>
-<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;" colspan="2" align="center">
-
-⭐ "Strong UI/UX skills combined with solid backend understanding."  
-— Client C
+⭐ “Delivered scalable and clean solutions.”  
+— Client B  
 
 </td>
 </tr>
@@ -190,43 +165,29 @@ Modular systems designed to grow with your product.
 
 <table>
 <tr>
-<td width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" align="center">
+<td align="center" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" width="33%">
 
 ### 🟢 Starter  
-- Basic website  
-- Responsive UI  
-- Simple backend  
+Basic responsive website
 
 </td>
 
-<td width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" align="center">
+<td align="center" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" width="33%">
 
 ### 🔵 Pro  
-- Full-stack app  
-- API integration  
-- Authentication system  
+Full-stack application
 
 </td>
 
-<td width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" align="center">
+<td align="center" style="border:1px solid #00D1FF; border-radius:12px; padding:20px;" width="33%">
 
 ### 🟣 Enterprise  
-- Scalable architecture  
-- Advanced features  
-- Cloud deployment  
+Scalable cloud architecture
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadEsharib&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
@@ -239,25 +200,44 @@ Modular systems designed to grow with your product.
 
 ---
 
-# ⚡ Current Focus
+# 📈 Activity Graph
 
-- Cloud-native architectures ☁️  
-- Advanced frontend performance ⚛️  
-- Scalable backend systems 🧠  
-- UI/UX interaction design 🎨  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadEsharib&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
-# 🌐 Contact / CTA
+# 🎯 Interactive CTAs (Button-like)
 
 <div align="center">
 
+<!-- PRIMARY CTA -->
 <a href="mailto:muhammadesharib1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-00D1FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📩%20Hire%20Me-00D1FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/muhammadesharib">
-  <img src="https://img.shields.io/badge/LinkedIn-00D1FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/MuhammadEsharib">
+  <img src="https://img.shields.io/badge/⭐%20View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- SECONDARY CTA -->
+<a href="mailto:muhammadesharib1@gmail.com">
+  <img src="https://img.shields.io/badge/💼%20Discuss%20a%20Project-00D1FF?style=for-the-badge" />
+</a>
+
+<a href="mailto:muhammadesharib1@gmail.com">
+  <img src="https://img.shields.io/badge/🚀%20Start%20Collaboration-00D1FF?style=for-the-badge" />
 </a>
 
 </div>
@@ -268,6 +248,6 @@ Modular systems designed to grow with your product.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Let%27s+Build+Something+Exceptional;Open+for+Collaborations;Turning+Ideas+Into+Products+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Open+to+Opportunities;Let%27s+Build+Something+Impactful;Turning+Ideas+Into+Reality+🚀" />
 
 </div>

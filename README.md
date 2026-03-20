@@ -1,13 +1,5 @@
 <div align="center">
 
-<!-- HERO BANNER (Theme aware) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/your_dark_banner.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/your_light_banner.gif">
-  <img src="https://i.imgur.com/your_dark_banner.gif" width="100%" />
-</picture>
-
-<br><br>
 
 <!-- HERO TITLE -->
 <h1>✨ Muhammad Esharib</h1>

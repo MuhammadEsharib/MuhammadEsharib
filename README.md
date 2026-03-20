@@ -1,126 +1,94 @@
-<h1 align="center">Muhammad Esharib</h1>
+<div align="center">
 
-<h3 align="center">Web Developer | Front-End Engineer | UI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Frontend+Engineer;Building+Modern+Web+Apps;UI%2FUX+Focused+%7C+Performance+Driven;Clean+Code+%7C+Scalable+Solutions&center=true&width=700&height=50">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&height=100&lines=MUHAMMAD+ESHARIB;Web+Developer;Front-End+Engineer;UI+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadEsharib&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Status-Building_Modern_Web_Apps-0e75b6?style=flat-square&logo=visual-studio-code" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadEsharib&label=VIEWS&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Quick Overview
+*Building scalable solutions at the intersection of Design and Logic.*
 
-<p align="center">
-I am a web developer with a strong focus on building modern, responsive, and user-friendly web applications.<br>
-I enjoy working across the frontend and expanding into backend development to create complete, scalable solutions.<br>
-Alongside development, I have a creative background in UI design and visual content creation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>I bridge the gap between <b>Design</b> and <b>Development</b>. I specialize in building responsive architectures with a heavy focus on user experience and clean, maintainable code.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Focus</h3>
+      <ul>
+        <li>Responsive Web Architecture</li>
+        <li>Component-Based Systems</li>
+        <li>UI/UX Motion Design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Ecosystem
+
+### 🌐 Frontend & Motion
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Logic
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🎨 Design Mastery
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-## ⚙️ Technical Skills
+## 📊 Performance Metrics
 
-### 💻 Frontend Development
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadEsharib&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadEsharib&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadEsharib&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF" width="100%" />
 </p>
 
 ---
 
-### 🧠 Backend & Programming
+## 📈 3D Activity Graph
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadEsharib&theme=tokyonight" width="100%"/>
 </p>
 
 ---
 
-### 🎨 Design & Creative Tools
-<p align="center">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
----
-
-### 🎬 Media & Editing
-<p align="center">
-<img src="https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Photo%20Editing-555555?style=for-the-badge"/>
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 🎯 Core Strengths
-
-<p align="center">
-✔ Responsive Web Design  
-✔ Component-Based Architecture  
-✔ UI/UX Implementation  
-✔ API Integration  
-✔ Performance Optimization  
-✔ Clean & Maintainable Code  
-✔ Cross-Functional Creative Skills  
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadEsharib&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadEsharib&theme=blue_navy&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadEsharib&layout=compact&theme=blue_navy&hide_border=false"/>
-</p>
-
----
-
-## 🧠 Professional Approach
-
-<p align="center">
-I focus on writing structured, scalable, and reusable code while maintaining strong attention to UI details.<br>
-I aim to bridge development and design to deliver complete, polished user experiences.<br>
-I continuously improve by learning modern tools, frameworks, and best practices.
-</p>
-
----
-
-## 📫 Contact
-
+## 📫 Let's Connect
 <p align="center">
   <a href="mailto:muhammadesharib1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-muhammadesharib1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let%27s+build+something+great+🚀;Open+to+opportunities+%26+collaboration&center=true&width=600&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&height=50&lines=Let's+build+something+great+🚀;Open+to+collaboration!"/>
 </p>
+
+</div>

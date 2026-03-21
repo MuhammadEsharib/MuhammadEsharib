@@ -1,216 +1,86 @@
 <div align="center">
+  <h1>محمد إشارب | Muhammad Esharib</h1>
+  
+  <p>
+    <strong>Full-Stack Developer</strong> crafting scalable, performant, and user-focused web applications.
+  </p>
 
-<!-- NAME -->
-<h1>Muhammad Esharib</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Performance+Engineering;Modern+UI%2FUX+Systems;Scalable+Full-Stack+Architecture;Cloud-Native+%26+Responsive+Design" alt="Typing SVG" />
+</div>
 
-<!-- ANIMATED INTRO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;UI%2FUX+Engineer;System+Architect;Building+Scalable+Products" width="100%" />
+<br/>
 
-<br>
+<div align="center">
 
-<!-- STATUS -->
-<p>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-00D1FF?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadEsharib&style=for-the-badge&color=00D1FF"/>
+[![GitHub followers](https://img.shields.io/github/followers/MuhammadEsharib?style=social)](https://github.com/MuhammadEsharib)
+[![GitHub stars](https://img.shields.io/github/stars/MuhammadEsharib?style=social)](https://github.com/MuhammadEsharib)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I build **production-grade full-stack applications** with a strong emphasis on:
+
+- ⚡ Performance optimization & clean code
+- 🎨 Intuitive UI/UX with motion & responsiveness
+- 🏗️ Scalable architecture (REST/GraphQL APIs, microservices mindset)
+- ☁️ Cloud-native deployments (Vercel, Netlify, etc.)
+
+Currently leveling up in **React**, **TypeScript**, **Tailwind CSS**, **Node.js**, and system design principles.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git,github,vscode,vercel,figma" alt="Tech stack icons" />
 </p>
 
+(Expanding daily — next up: Next.js, GraphQL, Docker, AWS basics)
+
+---
+
+### 🌟 Featured Projects
+
+(Coming soon — actively building & open-sourcing stronger demos)
+
+- **Luxury Restaurant Landing Page** → Modern Vite + React + Tailwind single-page site with smooth Lenis scrolling, parallax, and elegant design (in progress)
+- **Simple Calculator** → Clean, responsive vanilla JS calculator
+- **Practice CSS** → Daily CSS experiments & layouts
+
+Check out my [repositories](https://github.com/MuhammadEsharib?tab=repositories) for more!
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadEsharib&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadEsharib&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadEsharib&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-# 🧭 Professional Summary
+### 📫 Let's Connect
 
-<div align="center">
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin) *(add your real link)*
+- 🐦 [X / Twitter](https://x.com/____m______e___) *(update handle if public)*
+- 📧 Email: your.email@example.com *(add if comfortable)*
+- 🌐 Portfolio: coming soon...
 
-<table>
-<tr>
-<td style="border:1px solid #00D1FF; border-radius:12px; padding:20px;">
-
-I specialize in designing and developing **scalable full-stack systems**, combining performance engineering with modern UI/UX principles to deliver production-grade applications.
-
-</td>
-</tr>
-</table>
-
-</div>
+Open to collaboration, feedback, or just chatting about code!
 
 ---
 
-# ⚙️ Core Competencies
+Thanks for stopping by! 🌟  
+Let's build something awesome together.
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-⚡ Performance Engineering  
-</td>
-<td align="center" width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-🎨 UI/UX Systems  
-</td>
-<td align="center" width="33%" style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-🧩 Scalable Architecture  
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgresql,django,flask,docker,kubernetes,aws,git,github,vscode" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadEsharib&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadEsharib&theme=transparent&hide_border=true&stroke=00D1FF" width="48%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadEsharib&theme=transparent" width="100%" />
-
-</div>
-
----
-
-# 📈 Activity Graph (Live)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadEsharib&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-# 🐍 Contribution Visualization
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
----
-
-# 🧪 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;" width="50%">
-
-### 🧠 SaaS Platform  
-- Authentication system  
-- Analytics dashboard  
-- API-driven architecture  
-- Scalable backend  
-
-</td>
-
-<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;" width="50%">
-
-### ⚡ E-Commerce System  
-- Cart & checkout flow  
-- Payment integration  
-- Optimized UI  
-- Responsive design  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎥 Project Visuals
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="45%" />
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="45%" />
-
-</div>
-
----
-
-# 💼 Experience Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-✔ Built scalable full-stack applications  
-</td>
-<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-✔ Designed responsive UI systems  
-</td>
-</tr>
-<tr>
-<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-✔ Integrated REST & GraphQL APIs  
-</td>
-<td style="border:1px solid #00D1FF; border-radius:12px; padding:15px;">
-✔ Deployed cloud-native applications  
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-- Cloud-native architectures ☁️  
-- Advanced frontend performance ⚛️  
-- System design & scalability 🧠  
-- UI motion & interaction design 🎨  
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:muhammadesharib1@gmail.com">
-  <img src="https://img.shields.io/badge/📩%20Email%20Me-00D1FF?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D8%B4%D8%A7%D8%B1%D8%A8/" target="_blank">
-  <img src="https://img.shields.io/badge/🤝%20LinkedIn-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/MuhammadEsharib">
-  <img src="https://img.shields.io/badge/⭐%20GitHub-181717?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-# 🔥 Closing Animation
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Open+to+Opportunities;Open+to+Collaboration;Let%27s+Build+Something+Powerful+🚀" />
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *Thanks for visiting my profile!*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Waving footer" />
 </div>

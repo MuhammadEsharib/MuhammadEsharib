@@ -187,7 +187,7 @@ I specialize in designing and developing **scalable full-stack systems**, combin
   <img src="https://img.shields.io/badge/📩%20Email%20Me-00D1FF?style=for-the-badge"/>
 </a>
 
-<a href="www.linkedin.com/in/محمدعشارب">
+<a href="https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D8%B4%D8%A7%D8%B1%D8%A8/" target="_blank">
   <img src="https://img.shields.io/badge/🤝%20LinkedIn-0A66C2?style=for-the-badge"/>
 </a>
 

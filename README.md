@@ -1,105 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=Muhammad%20Esharib&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Muhammad%20Esharib&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&gradient=true&customColorList=0D1117,1A1F2E,00D4FF" alt="header" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4500&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Performance+%26+Scalability+Enthusiast;Crafting+Modern+UI%2FUX+Experiences;Building+for+Production+&+the+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=36&duration=5000&pause=1500&color=00D4FF&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Performance+%26+Scalability+Focused;Modern+UI%2FUX+%26+Motion+Systems;Building+Production-Grade+Web+Apps" alt="Animated Typing" />
 </h1>
 
 <p align="center">
-  <strong>Turning ideas into high-performance, responsive, and visually stunning web applications</strong>
-  <br/><br/>
-  Karachi, Pakistan  •  Open to remote opportunities & collaborations
+  <strong>Creating fast, scalable, and beautifully responsive digital experiences</strong><br>
+  Karachi, Pakistan  •  Open to remote roles, collaborations & challenging projects
 </p>
 
 <div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/MuhammadEsharib?style=for-the-badge&color=00D4FF&logo=github&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=MuhammadEsharib&style=for-the-badge&color=00D4FF)
-
+  <img src="https://img.shields.io/github/followers/MuhammadEsharib?style=for-the-badge&logo=github&color=00D4FF&logoColor=white" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadEsharib&style=for-the-badge&color=00D4FF" alt="Profile Views">
 </div>
 
 ---
 
-### 🚀 About Me
+### 🌌 About Me
 
-I'm passionate about:
+Passionate about:
 
-- ⚡ Writing clean, performant & maintainable code
-- 🎨 Creating intuitive, motion-rich user interfaces
-- 🏗️ Designing scalable full-stack architectures
-- ☁️ Deploying production-grade apps (Vercel, Netlify, modern CI/CD)
+- ⚡ Clean, optimized & maintainable code
+- 🎨 Intuitive interfaces with thoughtful motion & accessibility
+- 🏗️ Scalable full-stack architecture (REST/GraphQL, microservices mindset)
+- ☁️ Modern deployment & cloud-native workflows
 
-Currently mastering **React • TypeScript • Tailwind • Node.js** and exploring Next.js, system design & cloud-native patterns.
+Actively leveling up in **React • TypeScript • Tailwind • Node.js**  
+Next goals: Next.js, system design patterns, performance engineering.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,figma,postman&perline=8" alt="tech stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,figma,postman&perline=8" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
-  <em>Always learning — Next.js • GraphQL • Docker • AWS coming soon...</em>
+  <em>Always expanding — Next.js • GraphQL • Docker • AWS on the horizon</em>
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-🔨 Actively building & open-sourcing stronger work:
+🔨 In progress — pushing production-quality work:
 
-- **LUXE – Luxury Restaurant Website**  
-  Modern single-page experience with Vite + React + TypeScript + Tailwind + Lenis smooth scrolling + parallax  
+- **LUXE – Luxury Restaurant Experience**  
+  Elegant single-page site built with Vite + React + TypeScript + Tailwind + Lenis smooth scrolling + parallax effects  
   *(Live demo & repo coming soon)*
 
-- **More production-grade demos in progress**  
-  → Full-stack apps, responsive dashboards, performance-optimized UIs
+- **More full-stack & performance-focused demos incoming**  
+  Responsive apps, API integrations, optimized UIs
 
-Check out all my [repositories →](https://github.com/MuhammadEsharib?tab=repositories)
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadEsharib&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadEsharib&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadEsharib&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</div>
-
-<!-- Optional: enable snake animation contribution graph (uncomment if you like it) -->
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadEsharib/MuhammadEsharib/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadEsharib/MuhammadEsharib/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MuhammadEsharib/MuhammadEsharib/output/github-snake.svg" />
-  </picture>
-</div> -->
+Explore all my [repositories →](https://github.com/MuhammadEsharib?tab=repositories)
 
 ---
 
-### 📫 Let's Connect & Collaborate
+### 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadEsharib&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadEsharib&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadEsharib&layout=compact&theme=nightowl&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-real-profile) &nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/____m______e___) &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/____m______e___)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
 
 </div>
 
 <p align="center">
-  Open for freelance, internships, collaborations, or just geeking out over code!<br/>
-  Feel free to reach out — let's build something exceptional together.
+  Open to freelance, internships, code reviews, or deep tech discussions.<br>
+  Drop a message — excited to collaborate and build something impactful!
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20🌟&fontSize=40&fontColor=fff&animation=twinkling" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=140&section=footer&text=Thanks%20for%20stopping%20by!%20✨&fontSize=45&fontColor=ffffff&animation=twinkling&customColorList=0D1117,1A1F2E,00D4FF" alt="footer" />
 </div>

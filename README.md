@@ -1,120 +1,50 @@
-# Hi, I'm Muhammad Esharib 👋
+# Muhammad Esharib
 
-### Full-Stack Web Developer • Frontend Engineer • AI Product Builder
+**Web Developer · UI-focused Builder**
 
-I'm Muhammad Esharib, a developer passionate about building modern web applications, AI-powered tools, SaaS platforms, and interactive user experiences. I focus on creating scalable, responsive, and performance-driven products using modern web technologies.
+I build websites and web applications, with an interest in clear interfaces, useful features, and thoughtful details. I enjoy taking an idea from an early sketch to a working product, then improving it through design and code.
 
-My work spans web development, AI applications, productivity tools, career-tech platforms, and digital experiences designed to solve real-world problems.
+I'm currently studying Computer Science and developing my skills in frontend and full-stack web development.
 
----
+## Selected work
 
-## 🚀 What I Build
+A few projects that show the kind of work I enjoy:
 
-* Modern Web Applications
-* AI-Powered SaaS Products
-* Frontend & Full-Stack Solutions
-* Responsive User Interfaces
-* Career & Productivity Platforms
-* Interactive Browser Applications
-* Digital Content & Creative Projects
+| Project | What it is | |
+| --- | --- | --- |
+| [Portfolio](https://github.com/MuhammadEsharib/Portfolio) | A personal portfolio exploring interactive visuals, motion, and 3D on the web. | [Source](https://github.com/MuhammadEsharib/Portfolio) |
+| [Robin Travels](https://github.com/MuhammadEsharib/Robin-Travels) | A responsive travel-agency website with destination browsing and inquiry flows. | [Source](https://github.com/MuhammadEsharib/Robin-Travels) |
+| [AEHTER](https://aehter.vercel.app/) | A React and TypeScript project with a Gemini AI integration. | [Source](https://github.com/MuhammadEsharib/AEHTER) |
+| [ApplyFlow](https://applyflow-livid.vercel.app/) | A job-application tracker for organizing applications and the job search process. | [Source](https://github.com/MuhammadEsharib/applyflow) |
 
----
+## What I work with
 
-## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React
+- **UI & styling:** Tailwind CSS, responsive design, interaction design
+- **Tools:** Git, GitHub, Vercel
+- **Exploring:** Next.js, backend development, and practical AI integrations
 
-### Frontend
+## A little more
 
-HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS
+<details>
+  <summary>What I'm learning</summary>
 
-### Backend
+  - Building maintainable web applications
+  - Improving accessibility and responsive layouts
+  - Understanding APIs and full-stack workflows
+  - Using AI integrations where they solve a real problem
 
-Node.js • API Development • Authentication Systems
+</details>
 
-### Tools & Platforms
+<details>
+  <summary>How I like to work</summary>
 
-Git • GitHub • Vercel • AI Integrations • Responsive Design
+  I value simple solutions, readable code, useful documentation, and interfaces that feel considered rather than over-designed.
 
----
+</details>
 
-# 🌟 Featured Projects
+## Find me
 
-## 🔮 AEHTER
-
-A modern web application focused on delivering an immersive digital experience with clean UI, responsive design, and optimized performance.
-
-🔗 Live Demo: https://aehter.vercel.app/
-
-Repository:
-github.com/MuhammadEsharib/AEHTER
-
----
-
-## 💼 ApplyFlow
-
-An AI-powered career platform designed to streamline the job application process through intelligent workflows, productivity features, and modern user experience.
-
-🔗 Live Demo: https://applyflow-livid.vercel.app/
-
-Repository:
-github.com/MuhammadEsharib/applyflow
-
----
-
-## 🧠 PulseOS AI
-
-A productivity-focused AI platform built to enhance organization, workflow management, and digital efficiency through intelligent user experiences.
-
-🔗 Live Demo: https://pulseos-ai.vercel.app/
-
-Repository:
-github.com/MuhammadEsharib/pulseos-ai
-
----
-
-## 🎮 Tic-Tac-Toe Web
-
-A responsive browser-based game demonstrating JavaScript logic, interactive UI design, and clean frontend architecture.
-
-🔗 Live Demo: https://tic-tac-toe-web-sepia.vercel.app/
-
-Repository:
-github.com/MuhammadEsharib/tic-tac-toe-web
-
----
-
-## 📈 Current Focus
-
-* Advanced Full-Stack Development
-* Artificial Intelligence Applications
-* SaaS Product Development
-* Performance Optimization
-* Scalable Web Architecture
-* Modern Frontend Engineering
-
----
-
-## 🤝 Open To
-
-* Freelance Opportunities
-* Open Source Collaboration
-* Startup Projects
-* Web Development Partnerships
-* AI Product Development
-
----
-
-## 📫 Connect With Me
-
-📧 Email: [muhammadesharib1@gmail.com](mailto:muhammadesharib1@gmail.com)
-
-🐙 GitHub: https://github.com/MuhammadEsharib
-
-🐦 X (Twitter): https://twitter.com/MuhammadEsharib
-
-🎨 Patreon: https://patreon.com/esharib
-
----
-
-## 🔍 SEO Keywords
-
-Muhammad Esharib, Web Developer, Full Stack Developer, Frontend Developer, React Developer, Next.js Developer, JavaScript Developer, TypeScript Developer, AI Developer, SaaS Developer, Web Application Developer, GitHub Portfolio, Open Source Developer, Responsive Web Design, Software Engineer, UI UX Developer, Career Tech Developer, Productivity Software Developer, AI Applications, Modern Web Development.
+- [LinkedIn](https://www.linkedin.com/in/muhammadesharib/)
+- [Email](mailto:muhammadesharib1@gmail.com)
+- [X](https://twitter.com/MuhammadEsharib)

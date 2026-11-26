@@ -23,7 +23,6 @@ jobs:
           base: ""
           template: classic
           config_output: svg
-          config_theme: github_dark
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -36,12 +35,10 @@ jobs:
           base: ""
           template: classic
           config_output: svg
-          config_theme: github_dark
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          plugin_languages_ignored: ""
 
       - name: Generate coding habits
         uses: lowlighter/metrics@latest
@@ -52,7 +49,6 @@ jobs:
           base: ""
           template: classic
           config_output: svg
-          config_theme: github_dark
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_charts: yes

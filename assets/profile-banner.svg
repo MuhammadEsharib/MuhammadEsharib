@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Esharib — Web Developer</title>
+  <desc id="desc">A minimal charcoal banner with warm ivory typography and a subtle geometric grid.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8d8b82" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#20211f"/>
+      <stop offset="1" stop-color="#111210"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#fade)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <circle cx="1020" cy="155" r="190" fill="none" stroke="#c9c2ad" stroke-opacity=".13"/>
+  <circle cx="1020" cy="155" r="140" fill="none" stroke="#c9c2ad" stroke-opacity=".18"/>
+  <circle cx="1020" cy="155" r="90" fill="none" stroke="#c9c2ad" stroke-opacity=".22"/>
+  <path d="M890 250L1150 60" stroke="#c9c2ad" stroke-opacity=".3" stroke-width="1"/>
+  <circle cx="1020" cy="155" r="5" fill="#c9c2ad"/>
+  <text x="76" y="112" fill="#b8b09b" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="5">BUILD WITH INTENTION</text>
+  <text x="72" y="184" fill="#f2eee4" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Muhammad Esharib</text>
+  <text x="76" y="228" fill="#c5c2b9" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing=".5">Web Developer  /  UI-focused Builder</text>
+  <rect x="76" y="260" width="54" height="3" rx="1.5" fill="#b8b09b"/>
+</svg>

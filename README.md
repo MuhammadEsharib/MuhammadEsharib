@@ -7,12 +7,14 @@ Frontend developer and **BS Cyber Security** student at Iqra University, based i
 > [!NOTE]
 > Open to freelance frontend work and collaborations. The quickest way to reach me is by [email](mailto:muhammadesharib1@gmail.com).
 
-## Now
+## About me
 
-- Building client and personal projects with React, Next.js, TypeScript and Tailwind CSS
-- Integrating AI into real applications, on top of a consistent design system
-- Learning Linux fundamentals and web application security
-- Teaching AI tools, prompt engineering, computer basics and video editing
+- **Working on:** Client and personal frontend projects in React, Next.js and TypeScript, with AI features built in.
+- **Collaborating on:** Polished web products, especially AI-powered ones, and educational content.
+- **Need help with:** Linux, since I'm new to it.
+- **Learning:** Linux, cyber security fundamentals and web application security.
+- **Ask me about:** Design systems, typography, frontend with React and Next.js, API integrations, prompt engineering and video editing. Linux and cyber security are still new to me, so I'm here to learn those, not to advise on them.
+- **Fun fact:** I tried making a first-person melee game in Godot and it drained me. Now I split my time between frontend design and cyber security.
 
 ## Featured project
 
@@ -34,31 +36,15 @@ A travel-agency website with destination discovery, trip planning, FAQs and inqu
 
 More on my [repositories page](https://github.com/MuhammadEsharib?tab=repositories).
 
-## What I do
-
-| Area | Focus |
-| :-- | :-- |
-| **Frontend** | Responsive, component-based interfaces with clear visual hierarchy and purposeful motion |
-| **Full-stack** | Next.js and Node.js apps backed by MongoDB or Supabase |
-| **AI integrations** | Adding AI features, such as the Gemini API, into products people actually use |
-| **Education** | Practical courses and content on AI tools, prompt engineering, computer basics and video editing |
-
 ## Stack
 
 | Area | Tools |
 | :-- | :-- |
-| **Languages** | `HTML` `CSS` `JavaScript` `TypeScript` |
-| **Frontend** | `React` `Next.js` `Tailwind CSS` `GSAP` `Three.js` |
+| **Languages** | `HTML` `CSS` `JavaScript` `TypeScript` `C` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` `Vite` `GSAP` `Three.js` `Chart.js` |
 | **Backend and data** | `Node.js` `MongoDB` `Supabase` |
-| **Tooling** | `Git` `GitHub` `Vercel` |
+| **Tooling** | `Git` `GitHub` `Vercel` `Netlify` `Playwright` `ESLint` |
 | **Learning** | `Linux` `Cyber security` `Web application security` |
-
-## Learning
-
-- Cyber security fundamentals and security analysis
-- Linux and the command line
-- Web application security and secure development practices
-- Identifying, understanding and communicating technical risks responsibly
 
 <details>
 <summary>How I work</summary>
@@ -72,7 +58,10 @@ More on my [repositories page](https://github.com/MuhammadEsharib?tab=repositori
 
 </details>
 
-## Contact
+## Find me online
 
+- Design work: [Behance](https://www.behance.net/esharib)
+- LinkedIn: [in/muhammadesharib](https://www.linkedin.com/in/muhammadesharib)
 - Email: [muhammadesharib1@gmail.com](mailto:muhammadesharib1@gmail.com)
-- LinkedIn: [in/muhammadesharib](https://www.linkedin.com/in/muhammadesharib/)
+- Facebook: [Muhammad Esharib](https://www.facebook.com/profile.php?id=61593007341552)
+- Instagram: [Profile](https://instagram.com/___________m_____________e____)

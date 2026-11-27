@@ -43,9 +43,3 @@ Frontend developer and **BS Cyber Security** student at Iqra University, based i
 <p>
   <img src="https://streak-stats.demolab.com/?user=MuhammadEsharib&amp;theme=react&amp;hide_border=false" alt="GitHub streak" width="400">
 </p>
-
-## ✍️ Random dev quote
-
-![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----

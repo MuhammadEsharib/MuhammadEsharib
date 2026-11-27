@@ -8,7 +8,7 @@ Frontend developer and **BS Cyber Security** student at Iqra University, based i
 > Open to freelance frontend work and collaborations. The quickest way to reach me is by [email](mailto:muhammadesharib1@gmail.com).
 
 
-# 💫 About Me:
+## About me
 Working on: Client and personal frontend projects in React, Next.js and TypeScript, with AI features built in.<br>Collaborating on: Polished web products, especially AI-powered ones, and educational content.<br>Need help with: Linux, since I'm new to it.<br>Learning: Linux, cyber security fundamentals and web application security.<br>Ask me about: Design systems, typography, frontend with React and Next.js, API integrations, prompt engineering and video editing. Linux and cyber security are still new to me, so I'm here to learn those, not to advise on them.<br>Fun fact: I tried making a first-person melee game in Godot and it drained me. Now I split my time between frontend design and cyber security.
 
 

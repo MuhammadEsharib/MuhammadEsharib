@@ -7,6 +7,12 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/metrics.yml"
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
 
 permissions:
   contents: write

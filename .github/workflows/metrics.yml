@@ -35,7 +35,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           extras_css: |
-            body {
+            svg {
               background-color: #0d1512;
               color: #dfe9e2;
               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
@@ -83,7 +83,7 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_threshold: 0%
           extras_css: |
-            body {
+            svg {
               background-color: #0d1512;
               color: #dfe9e2;
               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
@@ -131,7 +131,7 @@ jobs:
           plugin_repositories_featured: Portfolio,Robin-Travels,AEHTER,applyflow
           plugin_repositories_order: featured
           extras_css: |
-            body {
+            svg {
               background-color: #0d1512;
               color: #dfe9e2;
               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;

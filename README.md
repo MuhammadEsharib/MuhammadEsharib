@@ -1,9 +1,12 @@
-Muhammad Esharib
-Frontend developer and BS Cyber Security student at Iqra University, based in Karachi. I build fast, responsive interfaces with React, Next.js and TypeScript, add AI features where they earn their place, and I'm learning Linux and web application security so what I ship is secure by default.
+# Muhammad Esharib
+ 
+Frontend developer and **BS Cyber Security** student at Iqra University, based in Karachi. I build fast, responsive interfaces with React, Next.js and TypeScript, add AI features where they earn their place, and I'm learning Linux and web application security so what I ship is secure by default.
+ 
+`Frontend` · `Full-stack` · `AI integrations` · `Cyber security (learning)`
+ 
+> [!NOTE]
+> Open to freelance frontend work and collaborations. The quickest way to reach me is by [email](mailto:muhammadesharib1@gmail.com).
 
-Frontend · Full-stack · AI integrations · Cyber security (learning)
-
-[!NOTE] Open to freelance frontend work and collaborations. The quickest way to reach me is by email.
 
 # 💫 About Me:
 Working on: Client and personal frontend projects in React, Next.js and TypeScript, with AI features built in.<br>Collaborating on: Polished web products, especially AI-powered ones, and educational content.<br>Need help with: Linux, since I'm new to it.<br>Learning: Linux, cyber security fundamentals and web application security.<br>Ask me about: Design systems, typography, frontend with React and Next.js, API integrations, prompt engineering and video editing. Linux and cyber security are still new to me, so I'm here to learn those, not to advise on them.<br>Fun fact: I tried making a first-person melee game in Godot and it drained me. Now I split my time between frontend design and cyber security.

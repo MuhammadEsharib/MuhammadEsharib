@@ -1,98 +1,63 @@
 <div align="center">
   <img src="./assets/profile-banner.svg" alt="Muhammad Esharib — Frontend Developer and Cyber Security Student" width="100%" />
-
-  <p>
-    <a href="#about"><b>ABOUT</b></a>
-    &nbsp;·&nbsp;
-    <a href="#selected-work"><b>WORK</b></a>
-    &nbsp;·&nbsp;
-    <a href="#stack"><b>STACK</b></a>
-    &nbsp;·&nbsp;
-    <a href="#github-activity"><b>ACTIVITY</b></a>
-    &nbsp;·&nbsp;
-    <a href="#contact"><b>CONTACT</b></a>
-  </p>
-
-  <h3>I build clear, fast interfaces, and I'm learning how to keep them secure.</h3>
 </div>
 
-<br/>
+*I build interfaces that feel considered: fast, responsive, and a little bit alive.*  
+*I'm a student at Iqra University, now learning the other half of the job, Linux and cyber security, so what I ship is secure by default.*  
+*I'd rather ship a small thing properly than announce a big one.*
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Building</b><br/>
-      Responsive web apps with React, TypeScript and motion
-    </td>
-    <td width="33%" valign="top">
-      <b>Studying</b><br/>
-      BS Cyber Security at Iqra University
-    </td>
-    <td width="33%" valign="top">
-      <b>Open to</b><br/>
-      Collaboration, freelance frontend work, learning opportunities
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#now"><b>NOW</b></a> &nbsp;·&nbsp;
+  <a href="#selected-work"><b>WORK</b></a> &nbsp;·&nbsp;
+  <a href="#highlights"><b>HIGHLIGHTS</b></a> &nbsp;·&nbsp;
+  <a href="#stack"><b>STACK</b></a> &nbsp;·&nbsp;
+  <a href="#github-activity"><b>ACTIVITY</b></a> &nbsp;·&nbsp;
+  <a href="#contact"><b>CONTACT</b></a>
+</p>
 
 ---
 
-## About
+## Now
 
-I'm a frontend developer based in Karachi, studying **Cyber Security** at **Iqra University**. I like the whole loop: understand the problem, plan the interface, build it, test it, then polish the details.
+**frontend and AI**<br/>
+﹂**Student at Iqra University**, BS Cyber Security<br/>
+&emsp;﹂building client and personal projects with React, Next.js, TypeScript and Tailwind<br/>
+&emsp;﹂wiring AI features into real apps, with modern design systems underneath
 
-I build frontend projects for clients and personal use, mostly in React and TypeScript. Alongside that, I'm building a foundation in **web application security** and secure development, so the things I ship are not just good-looking but also safer by default.
+**learning**<br/>
+﹂**Cyber security and Linux**<br/>
+&emsp;﹂web application security, secure development, command-line fundamentals
 
-I also teach practical AI tools, prompt engineering, computer basics and video editing, and I create my own educational content.
+**teaching**<br/>
+﹂**AI tools, prompt engineering, computer basics and video editing**<br/>
+&emsp;﹂plus my own educational content
 
-I'd rather be accurate about what I know than overstate it, and I keep learning in public through real projects.
+**Work with me:** freelance frontend and collaborations → [muhammadesharib1@gmail.com](mailto:muhammadesharib1@gmail.com)
+
+---
 
 ## Selected work
 
-A few public projects. Each links to its source code and, where available, a live version.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Portfolio**<br/>
-A personal portfolio exploring interactive visuals, motion and 3D.<br/>
-<sub>React 19 · TypeScript · Three.js · GSAP · Lenis</sub><br/>
-[Source code](https://github.com/MuhammadEsharib/Portfolio)
-
-</td>
-    <td width="50%" valign="top">
-
-**Robin Travels**<br/>
-A travel-agency website with destination discovery, trip planning, FAQs and inquiry flows.<br/>
-<sub>React · TypeScript · Tailwind CSS · GSAP</sub><br/>
-[Live site](https://robin-travels-journey.lovable.app/) · [Source code](https://github.com/MuhammadEsharib/Robin-Travels)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**AEHTER**<br/>
-A React and TypeScript web app with a Gemini AI integration.<br/>
-<sub>React · TypeScript · Vite · Gemini API</sub><br/>
-[Live site](https://aehter.vercel.app/) · [Source code](https://github.com/MuhammadEsharib/AEHTER)
-
-</td>
-    <td width="50%" valign="top">
-
-**ApplyFlow**<br/>
-A job-search platform for organising applications, resumes and career tasks.<br/>
-<sub>React · TypeScript · Vite · Tailwind CSS</sub><br/>
-[Live site](https://applyflow-livid.vercel.app/) · [Source code](https://github.com/MuhammadEsharib/applyflow)
-
-</td>
-  </tr>
-</table>
+| [**Portfolio**](https://github.com/MuhammadEsharib/Portfolio)<br>Interactive portfolio with 3D, motion and smooth scroll<br><sub>React 19 · TypeScript · Three.js · GSAP · Lenis</sub><br>![focus](https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=3d%20%7C%20motion%20%7C%20interaction&labelColor=0ea5e9&color=111827)<br>![last commit](https://img.shields.io/github/last-commit/MuhammadEsharib/Portfolio?style=flat-square&label=last%20commit&color=3ddc97) | [**Robin Travels**](https://github.com/MuhammadEsharib/Robin-Travels)<br>Travel-agency site with destination discovery, trip planning, FAQs and inquiry flows · [live](https://robin-travels-journey.lovable.app/)<br><sub>React · TypeScript · Tailwind CSS · GSAP</sub><br>![focus](https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=ui%20%7C%20travel%20%7C%20conversion&labelColor=059669&color=111827)<br>![last commit](https://img.shields.io/github/last-commit/MuhammadEsharib/Robin-Travels?style=flat-square&label=last%20commit&color=3ddc97) |
+|---|---|
+| [**AEHTER**](https://github.com/MuhammadEsharib/AEHTER)<br>React and TypeScript web app with a Gemini AI integration · [live](https://aehter.vercel.app/)<br><sub>React · TypeScript · Vite · Gemini API</sub><br>![focus](https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=ai%20%7C%20gemini%20%7C%20react&labelColor=a855f7&color=111827)<br>![last commit](https://img.shields.io/github/last-commit/MuhammadEsharib/AEHTER?style=flat-square&label=last%20commit&color=3ddc97) | [**ApplyFlow**](https://github.com/MuhammadEsharib/applyflow)<br>Job-search platform for organising applications, resumes and career tasks · [live](https://applyflow-livid.vercel.app/)<br><sub>React · TypeScript · Vite · Tailwind CSS</sub><br>![focus](https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=productivity%20%7C%20dashboards&labelColor=f97316&color=111827)<br>![last commit](https://img.shields.io/github/last-commit/MuhammadEsharib/applyflow?style=flat-square&label=last%20commit&color=3ddc97) |
 
 <p align="center">
-  <a href="https://github.com/MuhammadEsharib?tab=repositories"><b>Browse all repositories ↗</b></a>
+  <a href="https://github.com/MuhammadEsharib?tab=repositories"><b>All repositories ↗</b></a>
 </p>
+
+---
+
+## Highlights
+
+| Highlight | Detail |
+|---|---|
+| **Frontend for clients** | Build production-level frontend projects for clients: responsive, component-based, shipped on Vercel |
+| **AI integrations** | [AEHTER](https://github.com/MuhammadEsharib/AEHTER) puts the Gemini API inside a React + TypeScript app; I build AI features into interfaces, not just chat boxes |
+| **Motion and 3D** | [Portfolio](https://github.com/MuhammadEsharib/Portfolio) combines Three.js, GSAP and Lenis smooth scroll on React 19 |
+| **Full-stack range** | Next.js, Node.js, MongoDB and Supabase alongside the frontend work |
+| **Educator** | Teach AI tools, prompt engineering, computer basics and video editing, and create my own educational content |
+| **Security path** | BS Cyber Security at Iqra University; learning Linux and web application security through coursework, independent study and hands-on practice |
 
 ---
 
@@ -107,11 +72,20 @@ A job-search platform for organising applications, resumes and career tasks.<br/
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-18231E?style=flat-square&logo=javascript&logoColor=F7DF1E" />
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-18231E?style=flat-square&logo=typescript&logoColor=3178C6" />
       <img alt="React" src="https://img.shields.io/badge/React-18231E?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-18231E?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-18231E?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
     </td>
   </tr>
   <tr>
-    <td><b>Motion &amp; 3D</b></td>
+    <td><b>Backend and data</b></td>
+    <td>
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18231E?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-18231E?style=flat-square&logo=mongodb&logoColor=47A248" />
+      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-18231E?style=flat-square&logo=supabase&logoColor=3FCF8E" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Motion</b></td>
     <td>
       <img alt="GSAP" src="https://img.shields.io/badge/GSAP-18231E?style=flat-square&logo=greensock&logoColor=88CE02" />
       <img alt="Three.js" src="https://img.shields.io/badge/Three.js-18231E?style=flat-square&logo=threedotjs&logoColor=FFFFFF" />
@@ -128,35 +102,12 @@ A job-search platform for organising applications, resumes and career tasks.<br/
   <tr>
     <td><b>Learning</b></td>
     <td>
-      <img alt="Web Application Security" src="https://img.shields.io/badge/Web_Application_Security-18231E?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
-      <img alt="Secure Development" src="https://img.shields.io/badge/Secure_Development-18231E?style=flat-square&logo=letsencrypt&logoColor=3DDC97" />
-      <img alt="Security Analysis" src="https://img.shields.io/badge/Security_Analysis-18231E?style=flat-square&logo=owasp&logoColor=FFFFFF" />
+      <img alt="Cyber Security" src="https://img.shields.io/badge/Cyber_Security-18231E?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-18231E?style=flat-square&logo=linux&logoColor=FCC624" />
+      <img alt="Web Application Security" src="https://img.shields.io/badge/Web_App_Security-18231E?style=flat-square&logo=owasp&logoColor=FFFFFF" />
     </td>
   </tr>
 </table>
-
-<details>
-  <summary><b>How I work</b></summary>
-  <br/>
-
-- Understand the problem before choosing a solution.
-- Keep the code clear and maintainable.
-- Prefer useful features over decoration.
-- Test changes, learn from mistakes, and describe my skills honestly.
-
-</details>
-
-<details>
-  <summary><b>Current learning priorities</b></summary>
-  <br/>
-
-- Building maintainable frontend and full-stack applications
-- Improving accessibility, performance and responsive behaviour
-- Strengthening programming and software engineering fundamentals
-- Studying cybersecurity fundamentals and web application security
-- Learning to identify, understand and communicate technical risks responsibly
-
-</details>
 
 ---
 
@@ -176,20 +127,19 @@ A job-search platform for organising applications, resumes and career tasks.<br/
     <img src="./metrics/repositories.svg" alt="Selected public GitHub repositories" width="100%" />
   </p>
 
-  <sub>Language share reflects code detected in public repositories. It is not a measure of proficiency.</sub>
+  <sub>Language share reflects code detected in public repositories, not proficiency.</sub>
 </details>
 
-<sub>Reports are generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> and refreshed by GitHub Actions. Contributions show recorded activity, not every hour spent studying or planning.</sub>
+<sub>Generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> and refreshed by GitHub Actions.</sub>
 
 ---
 
 ## Contact
 
-If you're working on something in web development, design or security and want to talk, I'd like to hear from you.
-
-<p>
-  <a href="https://www.linkedin.com/in/muhammadesharib/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-18231E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:muhammadesharib1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-18231E?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadesharib/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:muhammadesharib1@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/MuhammadEsharib"><b>GitHub</b></a>
 </p>
 
 <div align="center">

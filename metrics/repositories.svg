@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">Selected repositories</title>
+  <desc id="desc">Selected public projects will appear here after the GitHub Metrics workflow completes.</desc>
+  <rect x="1" y="1" width="898" height="178" rx="14" fill="#0d1517" stroke="#38534a"/>
+  <text x="32" y="65" fill="#e9f0eb" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Selected repositories</text>
+  <text x="32" y="103" fill="#9eb3a8" font-family="Arial, Helvetica, sans-serif" font-size="15">Portfolio · Robin-Travels · AEHTER · ApplyFlow</text>
+  <text x="32" y="139" fill="#78b69b" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5">REPOSITORY SNAPSHOT WILL UPDATE AUTOMATICALLY</text>
+</svg>

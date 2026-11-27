@@ -1,24 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Muhammad Esharib — Web Developer</title>
-  <desc id="desc">A minimal charcoal banner with warm ivory typography and a subtle geometric grid.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Esharib — Computer Science Student, Web Developer and Aspiring Cybersecurity Analyst</title>
+  <desc id="desc">A dark, editorial profile banner with precise grid lines, layered orbital geometry and a softly lit glass-like sphere.</desc>
   <defs>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#8d8b82" stroke-opacity=".12" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#20211f"/>
-      <stop offset="1" stop-color="#111210"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111b1d"/>
+      <stop offset=".54" stop-color="#0b1115"/>
+      <stop offset="1" stop-color="#111619"/>
     </linearGradient>
+    <radialGradient id="ambient" cx="78%" cy="46%" r="55%">
+      <stop offset="0" stop-color="#72bba0" stop-opacity=".22"/>
+      <stop offset=".45" stop-color="#3d7668" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#0b1115" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glass" cx="34%" cy="26%" r="76%">
+      <stop offset="0" stop-color="#d8f0e3" stop-opacity=".78"/>
+      <stop offset=".16" stop-color="#8ccab2" stop-opacity=".44"/>
+      <stop offset=".52" stop-color="#335b53" stop-opacity=".30"/>
+      <stop offset=".82" stop-color="#182d2d" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#0a1316" stop-opacity=".98"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c2e2d2" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#7bb89f" stop-opacity=".05"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b7d2c5" stroke-opacity=".07" stroke-width=".7"/>
+      <circle cx="0" cy="0" r="1" fill="#b7d2c5" fill-opacity=".18"/>
+    </pattern>
+    <clipPath id="orb">
+      <circle cx="930" cy="176" r="124"/>
+    </clipPath>
   </defs>
-  <rect width="1200" height="320" fill="url(#fade)"/>
-  <rect width="1200" height="320" fill="url(#grid)"/>
-  <circle cx="1020" cy="155" r="190" fill="none" stroke="#c9c2ad" stroke-opacity=".13"/>
-  <circle cx="1020" cy="155" r="140" fill="none" stroke="#c9c2ad" stroke-opacity=".18"/>
-  <circle cx="1020" cy="155" r="90" fill="none" stroke="#c9c2ad" stroke-opacity=".22"/>
-  <path d="M890 250L1150 60" stroke="#c9c2ad" stroke-opacity=".3" stroke-width="1"/>
-  <circle cx="1020" cy="155" r="5" fill="#c9c2ad"/>
-  <text x="76" y="112" fill="#b8b09b" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="5">BUILD WITH INTENTION</text>
-  <text x="72" y="184" fill="#f2eee4" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Muhammad Esharib</text>
-  <text x="76" y="228" fill="#c5c2b9" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing=".5">Web Developer  /  UI-focused Builder</text>
-  <rect x="76" y="260" width="54" height="3" rx="1.5" fill="#b8b09b"/>
+
+  <rect width="1200" height="360" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#ambient)"/>
+
+  <path d="M0 286H1200" stroke="#d0e3d8" stroke-opacity=".11"/>
+  <path d="M700 0V360M732 0V360" stroke="#d0e3d8" stroke-opacity=".05"/>
+  <path d="M56 42H1144" stroke="#d0e3d8" stroke-opacity=".10"/>
+
+  <text x="70" y="79" fill="#9dcbb5" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4">PROFILE / 2026</text>
+  <text x="70" y="157" fill="#f1f0e9" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.6">Muhammad Esharib</text>
+  <text x="72" y="197" fill="#c7d2cc" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing=".25">Computer Science Student  /  Web Developer</text>
+  <text x="72" y="226" fill="#a4b9af" font-family="Arial, Helvetica, sans-serif" font-size="16">Aspiring Cybersecurity Analyst</text>
+
+  <rect x="70" y="255" width="158" height="1.5" fill="#8ac4a8"/>
+  <text x="70" y="280" fill="#a9b8b0" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.8">BUILD WITH INTENT</text>
+  <text x="282" y="280" fill="#667d73" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.8">THINK SECURELY</text>
+
+  <circle cx="930" cy="176" r="150" fill="none" stroke="#9bcbb4" stroke-opacity=".12"/>
+  <circle cx="930" cy="176" r="137" fill="none" stroke="#9bcbb4" stroke-opacity=".20" stroke-dasharray="2 7"/>
+  <ellipse cx="930" cy="176" rx="183" ry="67" fill="none" stroke="url(#line)" stroke-width="1.1" transform="rotate(-28 930 176)"/>
+  <ellipse cx="930" cy="176" rx="183" ry="67" fill="none" stroke="#a4d5bd" stroke-opacity=".26" stroke-width="1" transform="rotate(58 930 176)"/>
+  <ellipse cx="930" cy="176" rx="183" ry="67" fill="none" stroke="#a4d5bd" stroke-opacity=".17" stroke-width="1" transform="rotate(90 930 176)"/>
+
+  <circle cx="930" cy="176" r="124" fill="url(#glass)" stroke="#c5e2d4" stroke-opacity=".55" stroke-width="1.2"/>
+  <g clip-path="url(#orb)" fill="none" stroke="#c6e6d7" stroke-opacity=".30">
+    <ellipse cx="930" cy="176" rx="106" ry="34"/>
+    <ellipse cx="930" cy="176" rx="106" ry="62"/>
+    <ellipse cx="930" cy="176" rx="106" ry="91"/>
+    <ellipse cx="930" cy="176" rx="36" ry="106"/>
+    <ellipse cx="930" cy="176" rx="68" ry="106"/>
+    <ellipse cx="930" cy="176" rx="91" ry="106"/>
+    <path d="M808 176H1052M930 52V300M845 91L1015 261M1015 91L845 261" stroke-opacity=".26"/>
+    <path d="M815 139C865 166 991 190 1045 215M819 216C875 181 982 147 1041 135" stroke-opacity=".22"/>
+  </g>
+  <circle cx="897" cy="132" r="21" fill="#f1f8f3" fill-opacity=".09"/>
+  <circle cx="897" cy="132" r="5" fill="#d2eee0" fill-opacity=".9"/>
+  <circle cx="1038" cy="105" r="3" fill="#9ed9ba"/>
+  <circle cx="805" cy="235" r="2.5" fill="#9ed9ba"/>
+  <circle cx="1064" cy="237" r="2" fill="#d2eee0" fill-opacity=".8"/>
+
+  <text x="1080" y="318" fill="#708a7e" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="end" letter-spacing="2">SOFTWARE · SECURITY · DESIGN</text>
 </svg>

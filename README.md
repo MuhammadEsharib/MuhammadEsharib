@@ -64,18 +64,11 @@ The reports below are generated from public GitHub data by [lowlighter/metrics](
   <img src="./metrics/isocalendar.svg" alt="GitHub contribution calendar" width="100%" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./metrics/languages.svg" alt="Programming languages detected in my public repositories" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="./metrics/habits.svg" alt="Patterns in my recent GitHub activity" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./metrics/languages.svg" alt="Programming languages detected in my public repositories" width="100%" />
+</p>
 
-<sub>Repository language data is not a measure of proficiency. GitHub activity reflects recorded events, not every hour spent learning or working.</sub>
+<sub>Repository language data describes code in public repositories; it is not a measure of personal proficiency. The contribution calendar reflects recorded GitHub contributions, not every hour spent learning or working.</sub>
 
 ## Tools and technologies
 

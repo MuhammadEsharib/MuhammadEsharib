@@ -31,8 +31,42 @@ jobs:
           base: ""
           template: classic
           config_output: svg
+          config_padding: 12
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          extras_css: |
+            body {
+              background-color: #0d1512;
+              color: #dfe9e2;
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+            }
+            h2, h3 {
+              color: #dfe9e2;
+              font-weight: 600;
+            }
+            h2 { font-size: 16px; }
+            h3 { font-size: 14px; }
+            .field {
+              color: #b8c9be;
+              margin-bottom: 4px;
+            }
+            .field svg { fill: #8eaf9a; }
+            .repository { margin: 9px 0; }
+            .repository .name span:first-child { color: #b5d5c0; }
+            .repository .name span:last-child { color: #83988b; }
+            .repository .description, .repository .infos { color: #a9bdb0; }
+            :root {
+              --color-calendar-graph-day-bg: #1b2922;
+              --color-calendar-graph-day-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L1-bg: #294333;
+              --color-calendar-graph-day-L2-bg: #456c51;
+              --color-calendar-graph-day-L3-bg: #709a79;
+              --color-calendar-graph-day-L4-bg: #a6c8ad;
+              --color-calendar-graph-day-L1-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L2-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L3-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L4-border: rgba(170, 199, 179, 0.10);
+            }
 
       - name: Generate language overview
         uses: lowlighter/metrics@latest
@@ -44,9 +78,43 @@ jobs:
           base: ""
           template: classic
           config_output: svg
+          config_padding: 12
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_threshold: 0%
+          extras_css: |
+            body {
+              background-color: #0d1512;
+              color: #dfe9e2;
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+            }
+            h2, h3 {
+              color: #dfe9e2;
+              font-weight: 600;
+            }
+            h2 { font-size: 16px; }
+            h3 { font-size: 14px; }
+            .field {
+              color: #b8c9be;
+              margin-bottom: 4px;
+            }
+            .field svg { fill: #8eaf9a; }
+            .repository { margin: 9px 0; }
+            .repository .name span:first-child { color: #b5d5c0; }
+            .repository .name span:last-child { color: #83988b; }
+            .repository .description, .repository .infos { color: #a9bdb0; }
+            :root {
+              --color-calendar-graph-day-bg: #1b2922;
+              --color-calendar-graph-day-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L1-bg: #294333;
+              --color-calendar-graph-day-L2-bg: #456c51;
+              --color-calendar-graph-day-L3-bg: #709a79;
+              --color-calendar-graph-day-L4-bg: #a6c8ad;
+              --color-calendar-graph-day-L1-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L2-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L3-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L4-border: rgba(170, 199, 179, 0.10);
+            }
 
       - name: Generate selected repositories
         uses: lowlighter/metrics@latest
@@ -58,6 +126,40 @@ jobs:
           base: ""
           template: classic
           config_output: svg
+          config_padding: 12
           plugin_repositories: yes
           plugin_repositories_featured: Portfolio,Robin-Travels,AEHTER,applyflow
           plugin_repositories_order: featured
+          extras_css: |
+            body {
+              background-color: #0d1512;
+              color: #dfe9e2;
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+            }
+            h2, h3 {
+              color: #dfe9e2;
+              font-weight: 600;
+            }
+            h2 { font-size: 16px; }
+            h3 { font-size: 14px; }
+            .field {
+              color: #b8c9be;
+              margin-bottom: 4px;
+            }
+            .field svg { fill: #8eaf9a; }
+            .repository { margin: 9px 0; }
+            .repository .name span:first-child { color: #b5d5c0; }
+            .repository .name span:last-child { color: #83988b; }
+            .repository .description, .repository .infos { color: #a9bdb0; }
+            :root {
+              --color-calendar-graph-day-bg: #1b2922;
+              --color-calendar-graph-day-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L1-bg: #294333;
+              --color-calendar-graph-day-L2-bg: #456c51;
+              --color-calendar-graph-day-L3-bg: #709a79;
+              --color-calendar-graph-day-L4-bg: #a6c8ad;
+              --color-calendar-graph-day-L1-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L2-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L3-border: rgba(170, 199, 179, 0.10);
+              --color-calendar-graph-day-L4-border: rgba(170, 199, 179, 0.10);
+            }
